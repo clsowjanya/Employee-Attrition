@@ -5,6 +5,7 @@ Problem Statement
 •	To decrease the rate of attrition and retain employees in the organization
 
 Objectives
+
 •	To determine the factors which are contributed and central/lead to employee attrition
 •	To suggest certain activities that might undertake in order to decrease attrition rateand retain employees
 
